@@ -1,10 +1,14 @@
 ## Oi! Eu sou Alan! 
  <div>
   <a href="https://github.com/alanlcardoso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanlcardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlcardoso&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanlcardoso&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlcardoso&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
+<div> 
+  <a href = "mailto:alanllcardoso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alanlcardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 <!--
 **alanlcardoso/alanlcardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
