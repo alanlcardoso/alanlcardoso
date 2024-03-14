@@ -11,8 +11,6 @@
   <img align="center" alt="quasar" src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
 </div><br/><br/><br/>
 
-Estatísticas do GitHub ⚡
-
 <br/>
 <div>
   <a href="[https://github.com/seu_usuario_github](https://github.com/alanlcardoso)">
