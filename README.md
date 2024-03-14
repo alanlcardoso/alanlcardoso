@@ -1,5 +1,5 @@
 <div>
-<h1 align="center"> Hi, eu sou Alan L Cardoso <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h2>
+  <h1 align="center"> Hi, eu sou Alan L Cardoso <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h1>
 </div>
 
 <div style="display: inline">
@@ -13,10 +13,11 @@
 
 <br/>
 <div>
-  <a href="[https://github.com/seu_usuario_github](https://github.com/alanlcardoso)">
+  <a href="[https://github.com/alanlcardoso](https://github.com/alanlcardoso)">
   <center>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanlcardoso&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
   </center>
+  <br/>
   <center>  
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlcardoso&layout=compact&langs_count=7&theme=radical"/> 
   </center>
@@ -25,5 +26,4 @@
 ## Contatos 📫
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/alanlcardoso) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanllcardoso@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanlcardoso/)  
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanlcardoso/)
